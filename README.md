@@ -78,3 +78,15 @@ This notebook is provided under the [MIT License](LICENSE). Model weights are su
 
 
 Key Components Explained:
+
+Interactive Widgets:
+
+Password field for Hugging Face token
+
+Model selection (SD 1.5 vs XL)
+
+Scheduler options
+
+Text input for prompts
+
+Generate button
