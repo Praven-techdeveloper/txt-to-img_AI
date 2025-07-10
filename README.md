@@ -102,3 +102,21 @@ Enter text prompt
 Generate image using GPU acceleration
 
 Display high-resolution output
+
+3.Technical Requirements:
+
+Google Colab with T4 GPU
+
+Hugging Face account
+
+Internet access for model downloads
+
+4.Best Practices:
+
+Use descriptive prompts (6-12 words)
+
+Start with SD 1.5 for faster iterations
+
+Add style keywords ("photorealistic", "oil painting")
+
+Experiment with different schedulers
