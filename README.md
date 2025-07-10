@@ -90,3 +90,15 @@ Scheduler options
 Text input for prompts
 
 Generate button
+
+2.Workflow:
+
+Authenticate with HF token
+
+Select model and scheduler
+
+Enter text prompt
+
+Generate image using GPU acceleration
+
+Display high-resolution output
