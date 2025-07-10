@@ -75,3 +75,6 @@ This notebook is provided under the [MIT License](LICENSE). Model weights are su
 ---
 > **Note**: First execution may take 2-5 minutes for model download.  
 > Generated images may be subject to content restrictions.
+
+
+Key Components Explained:
